@@ -1,0 +1,61 @@
+{
+  "user": [
+    {
+      "name": "Shivanshi ",
+      "email": "shivanshi@gmail.com",
+      "password": "shivanshi",
+      "region": "Uttar Pradesh",
+      "myEvents": []
+    },
+    {
+      "name": "sushila",
+      "email": "sushila@gmail.com",
+      "password": "Tanmay",
+      "region": "Uttar Pradesh",
+      "myEvents": []
+    },
+    {
+      "name": "vikas",
+      "myEvents": [],
+      "password": "Tanmay",
+      "region": "Kanpur",
+      "email": "vikas@gmail.com"
+    },
+    {
+      "name": "gadhuu",
+      "email": "gadhuu@gmail.com",
+      "password": "Tanmay",
+      "region": "Kanpur",
+      "myEvents": []
+    },
+    {
+      "name": "Mau ",
+      "email": "Mau@gmail.com",
+      "password": "Tanmay",
+      "region": "Uttar Pradesh",
+      "myEvents": []
+    },
+    {
+      "name": "Shweta Vishw",
+      "email": "sh@gmail.com",
+      "password": "Tanmay",
+      "region": "Uttar Pradesh",
+      "myEvents": []
+    },
+    {
+      "name": "Shweta Vishwakarma",
+      "email": "shweta99vish@gmail.com",
+      "password": "Tanmay",
+      "region": "Uttar Pradesh",
+      "myEvents": [],
+      "message": "Sign Up Successfull!!!"
+    },
+    {
+      "name": "Shweta Vishwakarma",
+      "email": "shweta96vish@gmail.com",
+      "password": "Tanmay",
+      "region": "Uttar Pradesh",
+      "myEvents": []
+    }
+  ]
+}

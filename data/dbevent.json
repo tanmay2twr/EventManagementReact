@@ -1,0 +1,20 @@
+{
+  "events": [
+    {
+      "title": "USED CARS",
+      "description": " Maruti Suzuki Swift Dzire VDi – 2008",
+      "region": "Uttar Pradesh",
+      "eventDate": "2021-07-23",
+      "createdBy": "vikas@gmail.com",
+      "id": 1
+    },
+    {
+      "title": "USED CARS",
+      "description": " Maruti Suzuki Swift Dzire VDi – 2008",
+      "region": "Uttar Pradesh",
+      "eventDate": "2021-07-23",
+      "createdBy": "vikas@gmail.com",
+      "id": 2
+    }
+  ]
+}
